@@ -11,7 +11,7 @@ Welcome to the EMI Calculator project! Easily calculate Equated Monthly Installm
 - **Dynamic UI:** Customize your calculations effortlessly, making financial planning a breeze.
 
 ## Screenshots
-<img src="https://github.com/HiraK7dev/Emi-Calculator/assets/153591644/7e6984f0-7e47-4498-b05f-3dcecc5a1138" height="189" width="100"> <img src="https://github.com/HiraK7dev/Emi-Calculator/assets/153591644/d1330eb6-bd17-4f0c-857d-816d575a47ef" height="189" width="100"> <img src="https://github.com/HiraK7dev/Emi-Calculator/assets/153591644/7407008a-c01c-4277-a1d4-8cc03c7e9a51" height="189" width="100">
+<img src="https://github.com/HiraK7dev/Emi-Calculator/assets/153591644/7e6984f0-7e47-4498-b05f-3dcecc5a1138" height="189" width="92"> <img src="https://github.com/HiraK7dev/Emi-Calculator/assets/153591644/d1330eb6-bd17-4f0c-857d-816d575a47ef" height="189" width="92"> <img src="https://github.com/HiraK7dev/Emi-Calculator/assets/153591644/7407008a-c01c-4277-a1d4-8cc03c7e9a51" height="189" width="92">
 
 ### Installation
 
