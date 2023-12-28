@@ -77,6 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
         centerTitle: true,
         toolbarHeight: 105,
       ),
+
       body: AnimatedContainer(
         duration: Duration(seconds: 5),
         child: ListView(
