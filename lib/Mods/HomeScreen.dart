@@ -73,9 +73,6 @@ class _HomeScreenState extends State<HomeScreen> {
                 fontWeight: FontWeight.w400
           ),
         ),
-        actions: [
-          TextButton.icon(onPressed: () { }, icon: Icon(Icons.info_outline, color: Colors.white24,), label: Text(' '))
-        ],
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(26)),
         centerTitle: true,
         toolbarHeight: 105,
